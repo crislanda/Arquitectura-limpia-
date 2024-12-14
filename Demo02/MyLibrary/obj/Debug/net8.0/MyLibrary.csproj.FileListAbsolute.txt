@@ -1,0 +1,12 @@
+D:\Desarrollos\.Net\ProyectoArquitecturas\Demo02\MyLibrary\bin\Debug\net8.0\MyLibrary.deps.json
+D:\Desarrollos\.Net\ProyectoArquitecturas\Demo02\MyLibrary\bin\Debug\net8.0\MyLibrary.dll
+D:\Desarrollos\.Net\ProyectoArquitecturas\Demo02\MyLibrary\bin\Debug\net8.0\MyLibrary.pdb
+D:\Desarrollos\.Net\ProyectoArquitecturas\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollos\.Net\ProyectoArquitecturas\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfoInputs.cache
+D:\Desarrollos\.Net\ProyectoArquitecturas\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfo.cs
+D:\Desarrollos\.Net\ProyectoArquitecturas\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.CoreCompileInputs.cache
+D:\Desarrollos\.Net\ProyectoArquitecturas\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.sourcelink.json
+D:\Desarrollos\.Net\ProyectoArquitecturas\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.dll
+D:\Desarrollos\.Net\ProyectoArquitecturas\Demo02\MyLibrary\obj\Debug\net8.0\refint\MyLibrary.dll
+D:\Desarrollos\.Net\ProyectoArquitecturas\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.pdb
+D:\Desarrollos\.Net\ProyectoArquitecturas\Demo02\MyLibrary\obj\Debug\net8.0\ref\MyLibrary.dll

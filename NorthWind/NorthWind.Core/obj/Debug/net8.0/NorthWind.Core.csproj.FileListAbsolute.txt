@@ -1,0 +1,16 @@
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\bin\Debug\net8.0\NorthWind.Core.deps.json
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\bin\Debug\net8.0\NorthWind.Core.dll
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\bin\Debug\net8.0\NorthWind.Core.pdb
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\bin\Debug\net8.0\NorthWind.Entities.dll
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\bin\Debug\net8.0\NorthWind.Entities.pdb
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\obj\Debug\net8.0\NorthWind.Core.csproj.AssemblyReference.cache
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\obj\Debug\net8.0\NorthWind.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\obj\Debug\net8.0\NorthWind.Core.AssemblyInfoInputs.cache
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\obj\Debug\net8.0\NorthWind.Core.AssemblyInfo.cs
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\obj\Debug\net8.0\NorthWind.Core.csproj.CoreCompileInputs.cache
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\obj\Debug\net8.0\NorthWind.Core.sourcelink.json
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\obj\Debug\net8.0\NorthWin.B692BFB2.Up2Date
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\obj\Debug\net8.0\NorthWind.Core.dll
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\obj\Debug\net8.0\refint\NorthWind.Core.dll
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\obj\Debug\net8.0\NorthWind.Core.pdb
+D:\Desarrollos\.Net\ProyectoArquitecturas\NorthWind\NorthWind.Core\obj\Debug\net8.0\ref\NorthWind.Core.dll

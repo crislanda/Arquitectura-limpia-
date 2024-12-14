@@ -1,0 +1,15 @@
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+D:\Desarrollos\.Net\ProyectoArquitecturas\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
